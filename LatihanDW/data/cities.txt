@@ -1,0 +1,143 @@
+City	State	Country
+Aachen	North Rhine-Westphalia	Germany
+Albuquerque	New Mexico	United States
+Anchorage	Alaska	United States
+Ann Arbor	Michigan	United States
+Annecy	Haute-Savoie	France
+Århus	Århus	Denmark
+Atlanta	Georgia	United States
+Austin	Texas	United States
+Barcelona	Barcelona	Spain
+Barquisimeto	Lara	Venezuela
+Beachwood	Ohio	United States
+Bedford	Indiana	United States
+Bellevue	Kentucky	United States
+Bend	Oregon	United States
+Bentonville	Arkansas	United States
+Bergamo	Bergamo	Italy
+Berlin	Berlin	Germany
+Bern	Bern	Switzerland
+Bloomfield Hills	Michigan	United States
+Boise	Idaho	United States
+Boston	Massachusetts	United States
+Bräcke	Jämtland	Sweden
+Braintree	Massachusetts	United States
+Brandenburg	Brandenburg	Germany
+Bruxelles	Bruxelles	Belgium
+Buenos Aires	Buenos Aires	Argentina
+Butte	Montana	United States
+Cambridge	Massachusetts	United States
+Campbell	California	United States
+Campinas	Sao Paulo	Brazil
+Caracas	Distrito Capital	Venezuela
+Cary	North Carolina	United States
+Charleroi	Hainaut	Belgium
+Chicago	Illinois	United States
+Colorado Springs	Colorado	United States
+Columbia	South Carolina	United States
+Cork	Cork	Ireland
+Cowes	Isle of Wight	United Kingdom
+Cunewalde	Saxony	Germany
+Cuxhaven	Lower Saxony	Germany
+Dallas	Texas	United States
+Denver	Colorado	United States
+Edison	New Jersey	United States
+Elgin	Oregon	United States
+Eugene	Oregon	United States
+Fairport	New York	United States
+Findlay	Ohio	United States
+Frankfurt	Brandenburg	Germany
+Frankfurt a.M.	Hesse	Germany
+Genève	Geneva	Switzerland
+Georgetown	South Carolina	United States
+Göteborg	Västra Götaland	Sweden
+Graz	Steiermark	Austria
+Greensboro	North Carolina	United States
+Helsinki	Southern Finland	Finland
+Hoffman Estates	Illinois	United States
+Hollis	Oklahoma	United States
+I. de Margarita	Nueva Esparta	Venezuela
+Kirkland	Washington	United States
+Kobenhavn	Kobenhavn	Denmark
+Köln	North Rhine-Westphalia	Germany
+Lander	Wyoming	United States
+Lappeenranta	Southern Finland	Finland
+Leipzig	Saxony	Germany
+Lille	Nord	France
+Lisboa	Lisboa	Portugal
+London	London	United Kingdom
+Louisville	Kentucky	United States
+Luleå	Norrbotten	Sweden
+Lyngby	Lyngby-Taarbæk	Denmark
+Lyon	Rhône	France
+Madrid	Madrid	Spain
+Manchester	Manchester	United Kingdom
+Mannheim	Baden-Württemberg	Germany
+Marseille	Bouches-du-Rhône	France
+Melbourne	Victoria	Australia
+Melville	Louisiana	United States
+Menlo Park	California	United States
+México D.F.	México D.F.	Mexico
+Minneapolis	Minnesota	United States
+Montceau	Saône-et-Loire	France
+Montréal	Québec	Canada
+Morristown	New Jersey	United States
+München	Bavaria	Germany
+Münster	North Rhine-Westphalia	Germany
+Nantes	Loire-Atlantique	France
+New Orleans	Louisiana	United States
+New York	New York	United States
+Newark	New Jersey	United States
+Orlando	Florida	United States
+Osaka	Osaka	Japan
+Oulu	Oulu	Finland
+Oviedo	Asturias	Spain
+Paris	Paris	France
+Philadelphia	Pennsylvania	United States
+Phoenix	Arizona	United States
+Portland	Oregon	United States
+Portsmouth	New Hampshire	United States
+Providence	Rhode Island	United States
+Racine	Wisconsin	United States
+Ravenna	Ravenna	Italy
+Redmond	Washington	United States
+Reggio Emilia	Reggio Emilia	Italy
+Reims	Marne	France
+Resende	Rio de Janeiro	Brazil
+Rio de Janeiro	Rio de Janeiro	Brazil
+Rockville	Maryland	United States
+Roseville	California	United States
+Salerno	Salerno	Italy
+Salzburg	Salzburg	Austria
+San Cristóbal	Táchira	Venezuela
+San Francisco	California	United States
+Sandvika	Akershus	Norway
+Santa Clara	California	United States
+Santa Cruz	California	United States
+Santa Monica	California	United States
+Sao Paulo	Sao Paulo	Brazil
+Savannah	Georgia	United States
+Scottsdale	Arizona	United States
+Seattle	Washington	United States
+Sevilla	Madrid	Spain
+Singapore		Singapore
+Southfield	Michigan	United States
+Stavern	Vestfold	Norway
+Ste-Hyacinthe	Québec	Canada
+Stockholm	Stockholm	Sweden
+Strasbourg	Bas-Rhin	France
+Stuttgart	Baden-Württemberg	Germany
+Sydney	New South Wales	Australia
+Tampa	Florida	United States
+Tokyo	Tokyo	Japan
+Torino	Torino	Italy
+Toulouse	Haute-Garonne	France
+Troy	Michigan	United States
+Tsawassen	British Columbia	Canada
+Vancouver	British Columbia	Canada
+Versailles	Yvelines	France
+Walla Walla	Washington	United States
+Warszawa	Mazowieckie	Poland
+Westboro	Massachusetts	United States
+Wilton	Connecticut	United States
+Zaandam	North Holland	Netherlands
